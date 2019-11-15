@@ -10,3 +10,4 @@ Procedures:
 3. Find the neighborhood and borough of each pickup and dropoff location in the full dataset.
 4. Calculate the neighborhood with the highest pickups, show the top 5 pickup neighborhoods at each hour and on each day, and identify the most frequent morning and late night pickups.
 5. Predict yellow taxi pickup frequencies by neighborhood using Random Forests.
+6. Incorporate covariates such as daily weather data, holiday, and [citibike data](https://www.citibikenyc.com/system-data).
